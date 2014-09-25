@@ -13,7 +13,7 @@ If you end up at Fullstack, we'll be spending a lot of time together and so you 
 Every 2nd round interview at Fullstack can be divided into three parts: the introduction, pair-programming and the Q&A. Let's talk about each one. 
 
 ####The introduction
-We'll start first by simply having a conversation. This is where we get to know you as a person, and you get to know me and also Fullstack. I want to understand your background and know why you want to be a programmer. Studying at Fullstack is a serious commitment for you, both in time and cost and so we want to be sure you are ready. Admitting you as a student is also us making a serious committment to you and your success. We take that promise seriously.
+We'll start first by simply having a conversation. This is where we get to know you as a person, and you get to know me and also Fullstack. I want to understand your background and know why you want to be a programmer. Studying at Fullstack is a serious commitment for you, both in time and cost and so we want to be sure you are ready. Admitting you as a student is also us making a commitment to you and your success. We take that promise seriously.
 
 Doing well in this portion of the interview involves three simple tips:
 
@@ -23,9 +23,9 @@ Doing well in this portion of the interview involves three simple tips:
 
 
 ####Programming
-Once we've spent time conversing with one another, we'll move on to programming together. Pair programming is a time for you to show us that you can think critically and that you understand the fundamentals of programming. We will tackle one or more problems together on a shared coding editor. Here are some tips for this part of the interview. 
+Once we've spent time conversing with one another, we'll move on to programming together. Pair programming is a time for you to show us that you can think critically and that you understand the fundamentals of programming. We'll tackle one or more problems together on a shared coding editor. Here are some tips while programming.
 
-* **Prepare**: Make sure you spend some time preparing for the interview. We provide you some preparation materials so use those, and other favorite resources of yours. Remember, the best preparation is practice!
+* **Practice**: Make sure you spend some time preparing technically for the interview. We provide you some preparation materials so use those. Remember, the best preparation is practice!
 * **Stay cool**: Probably the most important tip here is to keep your cool and do your best. We are not always expecting you to know all the answers, so it's ok when you don't know something. I can be challenging to code in front of an interviewer when you're used to working on your own usually. If you know you'll have trouble with this, it is not a bad idea to practice first with a friend!
 * **Don't give up easily**: Learning to code is a path filled with wow moments and moments of frustration. We want to see that you are patient yet persistent when facing challenges.
 * **Plan first, Code second**: Don't jump to coding directly, plan out your approach first. This will help you debug your approach with us, and will increase your success while coding.
@@ -35,9 +35,9 @@ Once we've spent time conversing with one another, we'll move on to programming 
 ####Q & A
 By the time we get to Q&A, we will have been chatting for a while and your mind may be a bit pre-occupied thinking about the code we wrote together. So, take some notes beforehand about what questions you want to ask during Q&A. We are happy to talk about anything of interest to you. Keep these tips in mind for the Q&A:
 
-* **Do your homework beforehand:** Please do check out our online FAQ guide. We love talking to you, but if you're asking us the exact questions that are already answered online, that probably isn't the best use of our time together.
-* **Ask tough questions:** Feel free to ask us tough questions. We love answering tough questions, because we spend every day working hard at making the Fullstack experience amazing and tough questions give us a chance to share some of the details of our program with you.
-* **Happy to talk to you about other schools**: Have you been admitted to other schools? That's nothing to be shy about in Q&A. Everyone who is admitted to Fullstack is also accepted to several other schools. We really are working on recruiting the best students here. We're happy to discuss the differences and similarities of other schools.
+* **Do your homework:** Please do check out our online FAQ guide. We love talking to you, but if you're asking us the exact questions that are already answered online, that probably isn't the best use of our time together.
+* **Ask "tough" questions:** Feel free to ask us tough questions. We love answering tough questions, because we spend every day working hard to make the Fullstack experience amazing. "Tough" questions give us a chance to share some of the details of our program with you.
+* **Happy to talk to you about other schools**: Have you been admitted to other schools? That's nothing to be shy about in Q&A. Many students who are admitted to Fullstack are also accepted to several other schools. We really are working on recruiting the best students here. We're happy to discuss the differences and similarities of other schools.
 
 I hope this summary of our interview process relieved some nerves and gave you some pointers about how to ace the Fullstack Academy interview. We look forward to meeting you soon. Now, get back to coding! :)
 
