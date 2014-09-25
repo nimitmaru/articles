@@ -1,16 +1,16 @@
 ## How to Ace the Fullstack Academy Interview
 
-One of the toughest and most rewarding parts of running Fullstack Academy is interviewing prospective students. After having spent many hundreds of hours interviewing prospective students and taking good notes, we have developed a methodology of conducting admission interviews that is both effective at finding great students, and productive for candidates. Are you one of our prospective students? Then listen up!
+One of the toughest and most rewarding parts of running Fullstack Academy is interviewing prospective students. We are on a mission to build an education movement with excellence in experience and outcomes. To achieve this, we are searching for the best and brightest students from around the world--students who are dedicated to joining the ranks of the master-builders of the world. To find these students, we've spent a lot of time thinking about our admissions process. One of the most common questions we get from prospective students is, what can I expect in the 2nd Round in-person interview? How can I do well, and how can I prepare?
+
+Well, after having spent hundreds and hundreds of hours interviewing prospective students, we have developed a methodology of conducting admission interviews that is both effective at uncovering great students, and productive for candidates. Are you one of our prospective students? Then listen up, here are the insider notes on how to ace the Fullstack Academy interview.
 
 ####It's not just an interview, it's a lesson
-Each interview is an opportunity to help a student advance in their journey toward being a developer.  And so it is not just an interview, it is also lesson, a pair-programming session and chance to just get to know each other as people.
+We think of each interview as an opportunity to help a student advance in their journey toward being a developer.  And so the first thing to know is that no, this is not just an interview, it is also a lesson with Fullstack, a pair-programming session and chance to get to know each other as people.
 
-If you end up at Fullstack, we'll be spending a lot of time together and so consider this a trial run. Pretend I'm at your desk and we're working together on an interesting piece of code. You don't need to be nervous that you'll say the wrong thing or that you won't get it right the first time. We're looking for students who can think critically and break down a problem into simple parts and also students who would fit in well with the Fullstack community. 
-
+If you end up at Fullstack, we'll be spending a lot of time together and so you can also consider this a trial run. Pretend I'm at your desk and we're working together on an interesting piece of code. You don't need to be nervous that you'll say the wrong thing or that you won't get it right the first time. We're looking for students who can think critically, who are passionate about doing this and students who would fit in well with the Fullstack community.
 
 ###The three parts of an interview
 Every 2nd round interview at Fullstack can be divided into three parts: the introduction, pair-programming and the Q&A. Let's talk about each one. 
-
 
 ####The introduction
 We'll start first by simply having a conversation. This is where we get to know you as a person, and you get to know me and also Fullstack. I want to understand your background and know why you want to be a programmer. Studying at Fullstack is a serious commitment for you, both in time and cost and so we want to be sure you are ready. Admitting you as a student is also us making a serious committment to you and your success. We take that promise seriously.
