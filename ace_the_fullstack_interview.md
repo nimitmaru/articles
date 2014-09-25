@@ -39,5 +39,5 @@ By the time we get to Q&A, we will have been chatting for a while and your mind 
 * **Ask tough questions:** Feel free to ask us tough questions. We love answering tough questions, because we spend every day working hard at making the Fullstack experience amazing and tough questions give us a chance to share some of the details of our program with you.
 * **Happy to talk to you about other schools**: Have you been admitted to other schools? That's nothing to be shy about in Q&A. Everyone who is admitted to Fullstack is also accepted to several other schools. We really are working on recruiting the best students here. We're happy to discuss the differences and similarities of other schools.
 
-I hope this summary of our interview process relieved some nerves and gave you some pointers about how to prepare for acing our interview. Now, get back to coding! :)
+I hope this summary of our interview process relieved some nerves and gave you some pointers about how to ace the Fullstack Academy interview. We look forward to meeting you soon. Now, get back to coding! :)
 
