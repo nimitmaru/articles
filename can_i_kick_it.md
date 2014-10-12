@@ -19,6 +19,6 @@ As a grad student at Wharton, I attended a seminar called, "Why Capable People S
 * **Learn more.** Read this [HuffPost article](http://www.huffingtonpost.com/dr-valerie-young/impostor-syndrome_b_2271141.html) by Dr. Valerie Young, an expert on this topic to learn more. Also, Google for many more resources to learn more about this topic online.
 
 ###We believe in you
-Admission to Fullstack is competitve, and our interview process is not easy. We're experts on identifying talent and have tracked our interview system across thousands of applicants - we wouldn't have admitted you if we didn't feel confident that you were committed, passionate and prepared enough to be successful. Our [97% hiring rate for graduates](http://www.fullstackacademy.com/employers) of the program is a testament to our ability of admitting people that can succeed.
+Admission to Fullstack is competitve, and our interview process is not easy. We have tracked our interview system across thousands of applicants and understand very well how to identify the best candidates. We wouldn't have admitted you if we didn't feel confident that you were committed, passionate and prepared enough to be [successful](http://www.fullstackacademy.com/employers).
 
-My advice to you is - Don't doubt yourself, but be prepared to work hard and make the best of this opportunity. So, the next time you're asking yourself, "Can I kick it?", let the tribe be your guide, **[yes you can](https://www.youtube.com/watch?v=ZrlJX7DzLhI&t=0m18s)**.
+My advice to you is - don't doubt yourself, but be prepared to work hard and make the best of this opportunity. The next time you're asking yourself, "Can I kick it?", let the tribe be your guide, **[yes you can](https://www.youtube.com/watch?v=ZrlJX7DzLhI&t=0m18s)**.
