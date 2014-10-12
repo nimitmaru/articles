@@ -1,4 +1,4 @@
-# Can I kick it? Yes you can.
+# "Can I kick it?" or "How to overcome the imposter syndrome" for Fullstack admits
 
 Some of the most common questions that **admits** to Fullstack Academy ask us are: "Am I really ready for this?" "Will I be able to handle it?" "Am I prepared?". If you have been admitted to Fullstack, the answers to all these questions are: YES. The Fullstack Academy interview process is one of the most rigorous amongst coding intensives. If you made it through and got accepted, we strongly believe that you are ready to be successful student and developer.  
 
