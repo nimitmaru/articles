@@ -1,8 +1,8 @@
 # "Can I kick it?" or "How to overcome the imposter syndrome for Fullstack admits"
 
-Some of the most common questions that **admits** to Fullstack Academy ask us are: "Am I really ready for this?" "Will I be able to handle it?" "Am I prepared?". If you have been admitted to Fullstack, the answers to all these questions are: YES. The Fullstack Academy interview process is one of the most rigorous amongst coding intensives. If you made it through and got accepted, we strongly believe that you are ready to be successful student and developer.  
+Some of the most common questions that **admits** to Fullstack Academy ask us are: "Am I really ready for this?" "Will I be able to handle it?" "Am I prepared?". If you have been admitted to Fullstack, the answer to all these questions is: YES. The Fullstack Academy interview process is one of the most rigorous amongst coding intensives. If you made it through and got accepted, we strongly believe that you are ready to be successful student and developer.  
 
-The root of the question: "Am I good enough?" is not only common amongst new admits, but also with current students, many of whom are used to being at the top of their class and are suddenly overwhelmed by the quality of their classmates.
+The root of the question: "Am I good enough?" is not only common amongst new admits, but also with current students, many of whom are used to being at the top of their class and suddenly feel overwhelmed by the quality of their classmates.
 
 What you're experiencing is known as the **imposter syndrome**. Despite multiple signs of external proof that you are cut out for the task,  you may begin to feel like you are an "imposter," that you're fooling everyone and you fear being "found out." This feeling, which is common with super-smart and deeply committed individuals, usually does not represent reality. 
 
@@ -19,4 +19,6 @@ As a grad student at Wharton, I attended a seminar called, "Why Capable People S
 * **Learn more.** Read this [HuffPost article](http://www.huffingtonpost.com/dr-valerie-young/impostor-syndrome_b_2271141.html) by Dr. Valerie Young, an expert on this topic to learn more. Also, Google for many more resources to learn more about this topic online.
 
 ###We believe in you
-Admission to Fullstack is competitve, and our interview process is not easy. We're experts on identifying talent and have tracked our interview system across thousands of applicants - we wouldn't have admitted you if we didn't feel confident that you were committed, passionate and prepared enough to be successful. My advice to you is, don't doubt yourself, but be prepared to work hard and make the best of this opportunity. So, the next time you're asking yourself, "Can I kick it?", let the tribe be your guide, **[yes you can](https://www.youtube.com/watch?v=ZrlJX7DzLhI&t=0m18s)**.
+Admission to Fullstack is competitve, and our interview process is not easy. We're experts on identifying talent and have tracked our interview system across thousands of applicants - we wouldn't have admitted you if we didn't feel confident that you were committed, passionate and prepared enough to be successful. Our [97% hiring rate for graduates](http://www.fullstackacademy.com/employers) of the program is a testament to our ability of admitting people that can succeed.
+
+My advice to you is - Don't doubt yourself, but be prepared to work hard and make the best of this opportunity. So, the next time you're asking yourself, "Can I kick it?", let the tribe be your guide, **[yes you can](https://www.youtube.com/watch?v=ZrlJX7DzLhI&t=0m18s)**.
