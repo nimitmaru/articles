@@ -1,4 +1,4 @@
-# "Can I kick it?" or "How to overcome the imposter syndrome" for Fullstack admits
+# "Can I kick it?" or "How to overcome the imposter syndrome for Fullstack admits"
 
 Some of the most common questions that **admits** to Fullstack Academy ask us are: "Am I really ready for this?" "Will I be able to handle it?" "Am I prepared?". If you have been admitted to Fullstack, the answers to all these questions are: YES. The Fullstack Academy interview process is one of the most rigorous amongst coding intensives. If you made it through and got accepted, we strongly believe that you are ready to be successful student and developer.  
 
@@ -19,4 +19,4 @@ As a grad student at Wharton, I attended a seminar called, "Why Capable People S
 * **Learn more.** Read this [HuffPost article](http://www.huffingtonpost.com/dr-valerie-young/impostor-syndrome_b_2271141.html) by Dr. Valerie Young, an expert on this topic to learn more. Also, Google for many more resources to learn more about this topic online.
 
 ###We believe in you
-Admission to Fullstack is competitve, and our interview process is not easy. We're experts on identifying talent and have tracked our interview system across thousands of applicants - we wouldn't have admitted you if we didn't feel confident that you were committed, passionate and prepared enough to be successful. My advice to you is, don't doubt yourself, but be prepared to work hard and make the best of this opportunity. So, the next time you're asking yourself, "Can I kick it?", let the tribe be your guide, **[yes you can](https://www.youtube.com/watch?v=ZrlJX7DzLhI)**.
+Admission to Fullstack is competitve, and our interview process is not easy. We're experts on identifying talent and have tracked our interview system across thousands of applicants - we wouldn't have admitted you if we didn't feel confident that you were committed, passionate and prepared enough to be successful. My advice to you is, don't doubt yourself, but be prepared to work hard and make the best of this opportunity. So, the next time you're asking yourself, "Can I kick it?", let the tribe be your guide, **[yes you can](https://www.youtube.com/watch?v=ZrlJX7DzLhI&t=0m18s)**.
